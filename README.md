@@ -10,7 +10,7 @@ To start the project, you need:
  clone this repository
 
  Step 2:
- install npm in the root directory of the project
+ npm install in the root directory of the project
 
  Step 3:
  npx cypress open (to open the visual GUI)
