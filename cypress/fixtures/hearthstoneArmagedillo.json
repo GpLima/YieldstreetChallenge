@@ -1,0 +1,55 @@
+[
+  {
+    "cardId": "ULD_258",
+    "dbfId": 53800,
+    "name": "Armagedillo",
+    "cardSet": "Saviors of Uldum",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 6,
+    "attack": 4,
+    "health": 8,
+    "text": "[x]<b>Taunt</b>\\nAt the end of your turn,\\ngive all <b>Taunt</b> minions\\nin your hand +2/+2.",
+    "flavor": "We may never know what provoked it, but we will never forget the consequences.",
+    "artist": "Jaemin Kim",
+    "collectible": true,
+    "elite": true,
+    "race": "Beast",
+    "playerClass": "Warrior",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f524875bf0f7f4dd4f706573a65ade9cc17f83d68693f50295d473930e18e3fb.png",
+    "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f22f19b058ebf2ff8b28af3685f6d74adb65f6d4cc916b6b4201eb709b6f14d0.png",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      }
+    ]
+  },
+  {
+    "cardId": "CORE_ULD_258",
+    "dbfId": 97326,
+    "name": "Armagedillo",
+    "cardSet": "Unknown",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 6,
+    "attack": 4,
+    "health": 8,
+    "text": "[x]<b>Taunt</b>\\nAt the end of your turn,\\ngive all <b>Taunt</b> minions\\nin your hand +2/+2.",
+    "flavor": "We may never know what provoked it, but we will never forget the consequences.",
+    "artist": "Jaemin Kim",
+    "collectible": true,
+    "elite": true,
+    "race": "Beast",
+    "playerClass": "Warrior",
+    "howToGet": "Unlocked with Warrior class.",
+    "howToGetGold": "Unlocked after winning 500 games as Warrior.",
+    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3ccd5891757edecf6342f772cbffa24d994921b72795d019db7cb13eefcc0da.png",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Taunt"
+      }
+    ]
+  }
+]

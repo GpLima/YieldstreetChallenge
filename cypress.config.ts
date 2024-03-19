@@ -49,7 +49,7 @@ async function setupNodeEvents(
 export default defineConfig({
   e2e: {
     baseUrl: "https://www.shopist.io/",
-    specPattern: "**/*.feature",
+    specPattern: "**/*.{feature,spec.ts}",
     setupNodeEvents,
     viewportWidth: 1366,
     viewportHeight: 768,
