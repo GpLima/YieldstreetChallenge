@@ -1,6 +1,6 @@
 # YieldstreetChallenge
 
-This project is a challenge for Yieldstreet, which is based on Cypress, Cucumber and TS. It serves to validate the website: https://www.shopist.io/
+This project is a challenge for Yieldstreet, which is based on Cypress, Cucumber and TS. It serves to validate the website: https://www.shopist.io/ and https://rapidapi.com/omgvamp/api/hearthstone/
 
 ## First steps
 
@@ -19,7 +19,7 @@ To start the project, you need:
  Select E2E tests and choose the preferred browser
 
  Step 5:
- Click on Shopist.feature
+ Click on Shopist.feature for running UI tests or APITest.spec.ts for running API tests
 
 ### Prerequisites
 
